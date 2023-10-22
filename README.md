@@ -1,11 +1,11 @@
-# 고등학교 수학으로 이해하는 컴퓨터
+# 고등학교수학으로이해하는컴퓨터
 
 `Set` `Propositions and logic` `Equations and inequalities` `Trigonometric functions`
 
 
 ## 개요
 
-이 저장소는 **고등학교 수학으로 이해하는 컴퓨터**의 학습 내용이 정리되어 있습니다.
+이 저장소는 **고등학교수학으로이해하는컴퓨터**의 학습 내용이 정리되어 있습니다.
 
 <img src="./assets/cover.jpg" alt="Cover" width="200">
 
